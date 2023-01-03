@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 689f8d04ed8fd8a45b79df3348e61f44
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21c78539a17aa469c2154eebbd2e6c
+      internalID: 1407644498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd56bfdaee6cb439314110bf5c7764
+      internalID: 1431663223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bf3407526b134f817462b17a7df5f
+      internalID: 197618150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76ff6a45aa68746a6803a531cc9c24
+      internalID: -1160001850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433fba58a4ee16743b67e7b14572adae
+      internalID: 135735477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45700c6c4f4d24eb29a5df6e529d81
+      internalID: 273991849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 321
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed008dd4508f911479424fd7f1dcf4fc
+      internalID: -906577489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756350da2c17ff4fba4afb0adcbf205
+      internalID: 498560979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0246d547b32eef747b5f5ddf078eb435
+      internalID: -1693186632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3807a502944c174cb0b181497e70915
+      internalID: 1580174062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61870483f0b8148a052ce9b47bbedd
+      internalID: 235247579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b9ef47f02def24c97597bbd14e04cb
+      internalID: -470284215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a0b369908aa14798256e8def4b49e
+      internalID: -601695663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5ecf4259b8894fa13830e2eea8e38
+      internalID: -1922243223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18389180bef414fbcdb1fe36017c66
+      internalID: -1131824037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2ec12b6bed5146981ac4b4b900a25
+      internalID: 100538220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc53e252d89ba459d3dacea358bdba
+      internalID: 47003267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54e9f86cb7b904c932a328d3034f7c
+      internalID: -660421858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd16edda9a8147429722f83ed1065be
+      internalID: 1197877814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94502f554daf0fb4ba2419ca9786a035
+      internalID: -862383369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 65
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9be80000b625f4180e26378c3b4b72
+      internalID: -2017465261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_8: -1693186632
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_12: -601695663
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_3: -1160001850
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_15: 100538220
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_20: -2017465261
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_18: 1197877814
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_17: -660421858
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_6: -906577489
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_5: 273991849
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_4: 135735477
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_13: -1922243223
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_2: 197618150
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_16: 47003267
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_1: 1431663223
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_19: -862383369
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_0: 1407644498
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_7: 498560979
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_11: -470284215
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_9: 1580174062
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_14: -1131824037
+      png-clipart-black-rock-illustration-platform-game-two-dimensional-space-tile-2d-computer-graphics-video-game-platform-miscellaneous-game_10: 235247579
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

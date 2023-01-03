@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: 263bbf868f1c40ef9da04b8d96ce8d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9114202556735134241
+    second: 001_jump_0
+  - first:
+      213: 4221240542453117958
+    second: 001_jump_1
+  - first:
+      213: 625860610720932487
+    second: 001_jump_2
+  - first:
+      213: 3523357379933079629
+    second: 001_jump_3
+  - first:
+      213: -8596044663396146486
+    second: 001_jump_4
+  - first:
+      213: 7766096164885648235
+    second: 001_jump_5
+  - first:
+      213: -221532185665806817
+    second: 001_jump_6
+  - first:
+      213: -2645646650756458663
+    second: 001_jump_7
+  - first:
+      213: 6988379754232823971
+    second: 001_jump_8
+  - first:
+      213: 1683834108819331414
+    second: 001_jump_9
+  - first:
+      213: 6064178719993600600
+    second: 001_jump_10
+  - first:
+      213: 2472163329611532525
+    second: 001_jump_11
+  - first:
+      213: -3165558793767378419
+    second: 001_jump_12
+  - first:
+      213: 5786448668047499669
+    second: 001_jump_13
+  - first:
+      213: -1128452367775406630
+    second: 001_jump_14
+  - first:
+      213: 1549108345473997953
+    second: 001_jump_15
+  - first:
+      213: 8546767250485949977
+    second: 001_jump_16
+  - first:
+      213: 7718823525455001438
+    second: 001_jump_17
+  - first:
+      213: 3241160507509925713
+    second: 001_jump_18
+  - first:
+      213: -7144980770290666002
+    second: 001_jump_19
+  - first:
+      213: -7798761364044411119
+    second: 001_jump_20
+  - first:
+      213: -4200744471105117014
+    second: 001_jump_21
+  - first:
+      213: -2546569432375483509
+    second: 001_jump_22
+  - first:
+      213: -2593606421509952089
+    second: 001_jump_23
+  - first:
+      213: 2271080002275288218
+    second: 001_jump_24
+  - first:
+      213: 8150424015197610105
+    second: 001_jump_25
+  - first:
+      213: 837937211342497361
+    second: 001_jump_26
+  - first:
+      213: -5622323336855697055
+    second: 001_jump_27
+  - first:
+      213: -7732624904553514781
+    second: 001_jump_28
+  - first:
+      213: 3366633695454195772
+    second: 001_jump_29
+  - first:
+      213: -5156514977379621497
+    second: 001_jump_30
+  - first:
+      213: 6145213700378084583
+    second: 001_jump_31
+  - first:
+      213: 6108321960906106380
+    second: 001_jump_32
+  - first:
+      213: 3783802579322338861
+    second: 001_jump_33
+  - first:
+      213: -2538966895637739013
+    second: 001_jump_34
+  - first:
+      213: -1405247069241052193
+    second: 001_jump_35
+  - first:
+      213: -4930467523365018115
+    second: 001_jump_36
+  - first:
+      213: -7417247119052711875
+    second: 001_jump_37
+  - first:
+      213: 9108005026504243730
+    second: 001_jump_38
+  - first:
+      213: 3410505507434650709
+    second: 001_jump_39
+  - first:
+      213: 4416189965293721309
+    second: 001_jump_40
+  - first:
+      213: -2029763084082002710
+    second: 001_jump_41
+  - first:
+      213: -6136193618735109045
+    second: 001_jump_42
+  - first:
+      213: -8115319712057032983
+    second: 001_jump_43
+  - first:
+      213: 4176211210457991390
+    second: 001_jump_44
+  - first:
+      213: 7416874720079056826
+    second: 001_jump_45
+  - first:
+      213: -2104138660335823819
+    second: 001_jump_46
+  - first:
+      213: -2526837041037885326
+    second: 001_jump_47
+  - first:
+      213: -4084849350089397005
+    second: 001_jump_48
+  - first:
+      213: -5900666461143171812
+    second: 001_jump_49
+  - first:
+      213: 8997578858755286425
+    second: 001_jump_50
+  - first:
+      213: 4337972451501577924
+    second: 001_jump_51
+  - first:
+      213: 4081869134426036897
+    second: 001_jump_52
+  - first:
+      213: 5239781697185573371
+    second: 001_jump_53
+  - first:
+      213: 8980053975697065995
+    second: 001_jump_54
+  - first:
+      213: 8568708744317499222
+    second: 001_jump_55
+  - first:
+      213: 7968338374564930328
+    second: 001_jump_56
+  - first:
+      213: 4281637774074219296
+    second: jump_0
+  - first:
+      213: -7862396843884538191
+    second: jump_1
+  - first:
+      213: 8276514422256456541
+    second: jump_2
+  - first:
+      213: -3697937850672776721
+    second: jump_3
+  - first:
+      213: 4987614716155920338
+    second: jump_4
+  - first:
+      213: -1184746109927277663
+    second: jump_5
+  - first:
+      213: -4845626741048118468
+    second: jump_6
+  - first:
+      213: 7014594740173477433
+    second: jump_7
+  - first:
+      213: 1578323387413840467
+    second: jump_8
+  - first:
+      213: 7655840988501763603
+    second: jump_9
+  - first:
+      213: -9197958414588387290
+    second: jump_10
+  - first:
+      213: -5086767228222736262
+    second: jump_11
+  - first:
+      213: 6181903233876262169
+    second: jump_12
+  - first:
+      213: 6085027727657474495
+    second: jump_13
+  - first:
+      213: -7558048255918937315
+    second: jump_14
+  - first:
+      213: 1978480726327293745
+    second: jump_15
+  - first:
+      213: -6132592246010354800
+    second: jump_16
+  - first:
+      213: -418148235218303146
+    second: jump_17
+  - first:
+      213: 4014067163673467108
+    second: jump_18
+  - first:
+      213: 1506671210523702264
+    second: jump_19
+  - first:
+      213: -698269485225333976
+    second: jump_20
+  - first:
+      213: 58559517799479068
+    second: jump_21
+  - first:
+      213: 5786932790349076467
+    second: jump_22
+  - first:
+      213: -2979544516068205554
+    second: jump_23
+  - first:
+      213: -2046193111815958161
+    second: jump_24
+  - first:
+      213: 6484181237898064512
+    second: jump_25
+  - first:
+      213: -3225056911852106339
+    second: jump_26
+  - first:
+      213: 6577321620887939973
+    second: jump_27
+  - first:
+      213: 3640988351627517149
+    second: jump_28
+  - first:
+      213: -7335557793373392994
+    second: jump_29
+  - first:
+      213: -8316701790580645646
+    second: jump_30
+  - first:
+      213: 2798516111748293662
+    second: jump_31
+  - first:
+      213: 382114916140565309
+    second: jump_32
+  - first:
+      213: -8569130885922760573
+    second: jump_33
+  - first:
+      213: -2210091775306831888
+    second: jump_34
+  - first:
+      213: -2390990006331752667
+    second: jump_35
+  - first:
+      213: 1163623551245970900
+    second: jump_36
+  - first:
+      213: 8782299771862856864
+    second: jump_37
+  - first:
+      213: -1642604694477414606
+    second: jump_38
+  - first:
+      213: 4557966941776416813
+    second: jump_39
+  - first:
+      213: -468062509844781452
+    second: jump_40
+  - first:
+      213: 8792727220414031832
+    second: jump_41
+  - first:
+      213: -4019479287016693394
+    second: jump_42
+  - first:
+      213: 4299268544362008819
+    second: jump_43
+  - first:
+      213: 6915982704474624033
+    second: jump_44
+  - first:
+      213: 968882803572095880
+    second: jump_45
+  - first:
+      213: -8151224023099486137
+    second: jump_46
+  - first:
+      213: -5518532394716831622
+    second: jump_47
+  - first:
+      213: -8673869656153820657
+    second: jump_48
+  - first:
+      213: -502782083493106410
+    second: jump_49
+  - first:
+      213: 6269712752928560008
+    second: jump_50
+  - first:
+      213: 5076106088197164608
+    second: jump_51
+  - first:
+      213: -3594697368027660631
+    second: jump_52
+  - first:
+      213: 6246700890586870840
+    second: jump_53
+  - first:
+      213: -2691006794766528024
+    second: jump_54
+  - first:
+      213: -8753627081805103990
+    second: jump_55
+  - first:
+      213: -5144560166212167377
+    second: jump_56
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1534
+        width: 127
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055033ff3cff2fc4dbf520dc76537709
+      internalID: -1744696987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1542
+        width: 127
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3004c6bccdc4e4ca56402290e5f252
+      internalID: 1206773756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1549
+        width: 127
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341fdaa1f6c01d043b32a7fc3fbeccc2
+      internalID: -174827028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1555
+        width: 138
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a2cb0c4a70d644ad069c6b050e225
+      internalID: 458783494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_4
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1560
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a0cd1147f128148a7b0ee467d261de
+      internalID: -477786491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_5
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1564
+        width: 150
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f592a3364a11494eb8daaa95d916320
+      internalID: -1090768976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_6
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1567
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679df3476d878048a1bccd7a9c5764e
+      internalID: 615595954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_7
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1569
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775b5c3f28e5274ca8b33a68d64dfeb
+      internalID: 2129307736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_8
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 1571
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ca5573aa596c4d9ebc7aa49005495
+      internalID: -706556090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_9
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1568
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6ebf25907f2545a7cc3741caf0e16
+      internalID: -890206937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_10
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1567
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ee409c235d924683df1106bf5b970
+      internalID: 2075020957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1266
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92adc98e94319504397257ccd70a6b21
+      internalID: -334909362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1263
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5334bb27bf784fbd1c963823c4398
+      internalID: 2077666229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1259
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972535d5cf067c499f8703bc9c679e6
+      internalID: -1680908531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_14
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1254
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2444bdf089a14cb3e050690046861
+      internalID: -1684960666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_15
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1249
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135a05bd2545644b9f7394ef74f7038
+      internalID: 1437047252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_16
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1242
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca544032683c7c478a1daaec62d16a2
+      internalID: -58543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_17
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1234
+        width: 162
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8ea842cc0c2f409170610b251985a
+      internalID: -904800082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_18
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1225
+        width: 160
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5cf07e4c4714478bb5934c18ddcca
+      internalID: 473812802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_19
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1232
+        width: 133
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030610e5076e144e87c239812cd2fc8
+      internalID: 1150758665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_20
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1241
+        width: 133
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38046fa5da93544fa99167faf5eb29a
+      internalID: -1605177427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_21
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 1247
+        width: 136
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf796a93ef60d4d9b0f67e8d1edbbe
+      internalID: 694766964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 953
+        width: 138
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa85e2d591b8cc943a4a5d6db13696d5
+      internalID: -1783276858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 958
+        width: 141
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030a9eba094a88745ad924fc750f9238
+      internalID: 364379606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 962
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cba2954f87a01441a63ec69d8ca5baf
+      internalID: 1400973656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 966
+        width: 148
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e261db80a1b1634ea0dae09c56a9953
+      internalID: 174924303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_26
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 968
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14126a945bfeb7a4996c38ef48aaa22d
+      internalID: -1222845303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_27
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 970
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cd7bc2e94f4f49a8f603c582d066c
+      internalID: -1746733867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_28
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 974
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479fe256040aa2d428fb7d8a3c01f7a5
+      internalID: 13529117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_29
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 974
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe3c92a8216c64c99a61e73cbf85c9
+      internalID: 507574787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_30
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 972
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d9b8b15b6fe54fa47e819cc5bc964
+      internalID: 950572571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_31
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 971
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c59745276aeae44a7eda2bcdf159a8
+      internalID: 194352799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_32
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 968
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458c890c6fc59842950e94672e4e1c9
+      internalID: -1005532707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 664
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5384951048544e8303cafc0499e22
+      internalID: -559543860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 659
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839355c960a32c439205ccbfb46b7e4
+      internalID: -109871675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_35
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 654
+        width: 148
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357b496f944de943887005998e90a5e
+      internalID: 355781976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_36
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 647
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e08b49dd91f944abdee4f039f7750e
+      internalID: 248101811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_37
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 640
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ba104cf2c2f542b7cb471f6a98d38
+      internalID: 481857941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_38
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 634
+        width: 127
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa506046c17c847a9c61ea1ffd1367
+      internalID: -1107270305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_39
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 642
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433c05fd10c8434884fbe4383859af2
+      internalID: 1627118173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_40
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 649
+        width: 137
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c88bfb40836d4e87bca584f8faa3e
+      internalID: -21760311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_41
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 655
+        width: 146
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af627ae6b19953446966a8388b69f144
+      internalID: 2004010399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_42
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 660
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f8ff1f94781b54b9957e182aaa5ac0
+      internalID: -1816504981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_43
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 663
+        width: 155
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648525bdad9552b469f4923b05e90cf4
+      internalID: -1339058182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 365
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624bb62e0e881e4991e0776e0418ad8
+      internalID: 1934023459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 367
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0658bde6de4284183a73fa0d1db76b
+      internalID: 603213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_46
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77fd431b1224f4d9a6e79168be3cc6
+      internalID: -616197935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_47
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 369
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92557928f63488542aeadca4a7d74420
+      internalID: -1341005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_48
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41351c719ce5d4cbdfe1cb655538bd
+      internalID: -1725104691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_49
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 368
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e16e71857fb9544a42a8832d373cc7
+      internalID: -1910328115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_50
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 366
+        width: 161
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ab0a08585ad742af770bc2dc611ff
+      internalID: 1240918549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_51
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 364
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d99a486c7de0914fbc581d46bd34dd6
+      internalID: -1205691719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_52
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 359
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee828a8aacb6b4187b378a52249188
+      internalID: 903933837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_53
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 354
+        width: 162
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c5bcf13efdc945affc29c777a0562
+      internalID: -1278681239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_54
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 347
+        width: 162
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c59e46f0b0a742b267777f3fce074
+      internalID: -21714923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c2334b738ed4478e4638893b9a040
+      internalID: 92988302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 30
+        width: 159
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cdeb25c36f9014b97ec3fe281cd494
+      internalID: 1237744642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_jump_22: -1783276858
+      character_jump_33: -559543860
+      character_jump_23: 364379606
+      character_jump_39: 1627118173
+      character_jump_38: -1107270305
+      character_jump_35: 355781976
+      character_jump_56: 1237744642
+      character_jump_6: 615595954
+      character_jump_21: 694766964
+      character_jump_31: 194352799
+      character_jump_13: -1680908531
+      character_jump_41: 2004010399
+      character_jump_49: -1910328115
+      character_jump_29: 507574787
+      character_jump_24: 1400973656
+      character_jump_32: -1005532707
+      character_jump_48: -1725104691
+      character_jump_12: 2077666229
+      character_jump_9: -890206937
+      character_jump_3: 458783494
+      character_jump_28: 13529117
+      character_jump_15: 1437047252
+      character_jump_52: 903933837
+      character_jump_34: -109871675
+      character_jump_44: 1934023459
+      character_jump_27: -1746733867
+      character_jump_18: 473812802
+      character_jump_26: -1222845303
+      character_jump_55: 92988302
+      character_jump_4: -477786491
+      character_jump_54: -21714923
+      character_jump_30: 950572571
+      character_jump_14: -1684960666
+      character_jump_43: -1339058182
+      character_jump_46: -616197935
+      character_jump_36: 248101811
+      character_jump_53: -1278681239
+      character_jump_5: -1090768976
+      character_jump_50: 1240918549
+      character_jump_37: 481857941
+      character_jump_20: -1605177427
+      character_jump_45: 603213948
+      character_jump_7: 2129307736
+      character_jump_16: -58543285
+      character_jump_17: -904800082
+      character_jump_40: -21760311
+      character_jump_1: 1206773756
+      character_jump_47: -1341005398
+      character_jump_11: -334909362
+      character_jump_51: -1205691719
+      character_jump_0: -1744696987
+      character_jump_2: -174827028
+      character_jump_10: 2075020957
+      character_jump_8: -706556090
+      character_jump_19: 1150758665
+      character_jump_25: 174924303
+      character_jump_42: -1816504981
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
