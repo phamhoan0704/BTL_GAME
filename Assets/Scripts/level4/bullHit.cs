@@ -26,11 +26,15 @@ public class bullHit : MonoBehaviour
     {
         if (other.gameObject.tag == "Shoot")
         {
-           // myBull.removeForce();
+
+            Debug.Log("hello");
+            // myBull.removeForce();
             Instantiate(bullet, transform.position, transform.rotation);
             Destroy(gameObject);
             if (other.gameObject.layer == LayerMask.NameToLayer("enemy"))
             {
+
+                Debug.Log("hello1");
                 enemyHealth1 hurtEnemy = other.gameObject.GetComponent<enemyHealth1>();
                 hurtEnemy.addDamge(weaponDamage);
             }
