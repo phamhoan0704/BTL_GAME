@@ -11,6 +11,7 @@ TagManager:
   - Shoot
   - bom
   - player2
+  - win
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - Player
   - NJ_LV1
   - 
-  - 'enemy '
+  - enemy
   - 
   - 
   - 

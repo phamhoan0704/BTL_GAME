@@ -36,6 +36,7 @@ public class Health : MonoBehaviour
         }
         else
         {
+			anim.SetTrigger("die");
 			gameManager.GameOver();
 			if (!dead)
             {

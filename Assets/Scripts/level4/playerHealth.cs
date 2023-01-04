@@ -8,7 +8,8 @@ public class playerHealth : MonoBehaviour
     public float maxHealth;
     float currentHealth;
     public GameObject bloodEffect;
-   // public Animator anim;
+    public GameManagerScript gameManager;
+    // public Animator anim;
 
 
     //khai báo sử dụng slider
@@ -40,8 +41,11 @@ public class playerHealth : MonoBehaviour
         playerHealthSlider.value = currentHealth;
         if (currentHealth <= 0)
         {
+        
+            gameManager.GameOver();
             //anim.SetTrigger("die");
             makeDead();
+            
         }
 
     }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player2Controller : MonoBehaviour
 {
-     private float speed=5;
+     private float speed=8;
     public float jumpPower;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private LayerMask wallLayer;
@@ -21,7 +21,7 @@ public class Player2Controller : MonoBehaviour
     public GameObject bullet;
     float fireRate = 0.3f;//trong 0.5 s thi ban 1 lan
     float nextFire = 0;//ban ngay lap tuc
-
+    public GameManagerScript gameManager;
     private void Awake()
     {
        
@@ -121,9 +121,14 @@ public class Player2Controller : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other)
     {
+        if (other.gameObject.tag == "win")
+        {
+            gameManager.GameWin();
+        }
         if (other.gameObject.tag == "Shoot")
         { 
             anim.SetTrigger("slice");
         }
+
     }
 }
