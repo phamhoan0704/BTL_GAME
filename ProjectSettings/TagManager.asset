@@ -8,6 +8,9 @@ TagManager:
   - NJ_LV1
   - Boss_LV2
   - DragonEnemy
+  - Shoot
+  - bom
+  - player2
   layers:
   - Default
   - TransparentFX
@@ -18,7 +21,7 @@ TagManager:
   - Player
   - NJ_LV1
   - 
-  - 
+  - 'enemy '
   - 
   - 
   - 

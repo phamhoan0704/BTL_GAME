@@ -4927,7 +4927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponDamage: 5
-  bullet: {fileID: 8785298541733057800}
+  bullet: {fileID: 7770497223034508833, guid: 336a98001e9e266418d9580fdeb17aa4, type: 3}
 --- !u!1 &8785298542795400810
 GameObject:
   m_ObjectHideFlags: 0
