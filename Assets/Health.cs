@@ -36,7 +36,8 @@ public class Health : MonoBehaviour
         }
         else
         {
-            if (!dead)
+			gameManager.GameOver();
+			if (!dead)
             {
 				anim.SetTrigger("die");
 				if(GetComponent<DragonController>()!=null)
